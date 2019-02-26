@@ -1,0 +1,82 @@
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\bin\Debug\skeleton.exe.config
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\bin\Debug\skeleton.exe
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\bin\Debug\skeleton.pdb
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\bin\Debug\Microsoft.Kinect.dll
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\bin\Debug\Microsoft.Kinect.xml
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton.csprojResolveAssemblyReference.cache
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\MainWindow.g.cs
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\App.g.cs
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.cache
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.lref
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\MainWindow.baml
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton.g.resources
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton.Properties.Resources.resources
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton.csproj.GenerateResource.Cache
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton.exe
+c:\users\dydwh\documents\visual studio 2015\Projects\skeleton\skeleton\obj\Debug\skeleton.pdb
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.exe.config
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.exe
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.pdb
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.exe
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.pdb
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.csprojResolveAssemblyReference.cache
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\MainWindow.g.cs
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\App.g.cs
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.cache
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.lref
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\MainWindow.baml
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.g.resources
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.Properties.Resources.resources
+C:\Users\dydwh\Desktop\kinect\과정\4. skeleton\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.exe.config
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.exe
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.pdb
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\App.g.cs
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.cache
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.lref
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.g.resources
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.Properties.Resources.resources
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.exe
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.pdb
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\Desktop\4-2 skeleton+ color\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.exe.config
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.exe
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\skeleton.pdb
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.cache
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton_MarkupCompile.lref
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.g.resources
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.Properties.Resources.resources
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.exe
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.pdb
+C:\Users\Administrator\Desktop\학술제\4-2 skeleton+ color\skeleton\skeleton\obj\Debug\skeleton.Form1.resources
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\bin\Debug\skeleton.exe.config
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\bin\Debug\skeleton.exe
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\bin\Debug\skeleton.pdb
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\App.g.cs
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton_MarkupCompile.cache
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton_MarkupCompile.lref
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.g.resources
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.Form1.resources
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.Properties.Resources.resources
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.exe
+C:\Users\User\Desktop\민수꼬추\민수꼬추\skeleton\obj\Debug\skeleton.pdb
